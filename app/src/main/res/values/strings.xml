@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">core</string>
+    <string name="app_name">Lemonade</string>
+    <string name="click_to_select">"Click to select a lemon!"</string>
+    <string name="click_to_juice">"Click to juice the lemon!"</string>
+    <string name="click_to_drink">"Click to drink your lemonade! "</string>
+    <string name="click_to_restart">"Click to start again! "</string>
 </resources>
